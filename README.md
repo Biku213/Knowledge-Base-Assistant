@@ -83,8 +83,12 @@ The Knowledge Base Assistant uses ChromaDB, a vector database, to store and retr
 Here are some screenshots showcasing the key features of the Knowledge Base Assistant application:
 
 ![Chat Interface](https://github.com/user-attachments/assets/744764dc-5f65-4a69-b281-fcc7e92be3c8)
+
 ![Image Search](https://github.com/user-attachments/assets/14e9e01b-2e64-45cc-a6f9-645042b862fe)
+
 ![Document Management](https://github.com/user-attachments/assets/0a4af41b-837e-411b-992f-9cdf22e86be1)
+
+![Settings Config](https://github.com/user-attachments/assets/03332a39-42c7-4900-ab82-86eb229af19e)
 
 ## Demo Video
 
