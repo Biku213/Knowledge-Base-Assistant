@@ -46,10 +46,11 @@ To set up the Knowledge Base Assistant application, follow these steps:
 
 - For Linux/Mac:
 
-  ```
+```
    python3 -m venv venv
    source venv/bin/activate
-  ```
+
+```
 
 - For Windows:
 
@@ -60,17 +61,21 @@ To set up the Knowledge Base Assistant application, follow these steps:
 
 3. Install the required dependencies:
 
-  ```
-  pip install -r requirements.txt
-  ```
+```
+
+pip install -r requirements.txt
+
+```
 
 4. Obtain a Groq API key and update the `st.session_state['api_key']` value in the `settings_tab()` function.
 
 5. Run the Streamlit application:
 
-  ```
-  streamlit run app.py
-  ```
+```
+
+streamlit run app.py
+
+```
 
 6. The application will open in your default web browser. You can now start uploading documents, customizing settings, and using the chat and image search functionality.
 
@@ -90,9 +95,9 @@ The Knowledge Base Assistant application provides a simple and intuitive interfa
 
 Here are some screenshots showcasing the key features of the Knowledge Base Assistant application:
 
-![Chat Interface](https://via.placeholder.com/800x400?text=Chat+Interface)
-![Image Search](https://via.placeholder.com/800x400?text=Image+Search)
-![Document Management](https://via.placeholder.com/800x400?text=Document+Management)
+![Chat Interface](https://github.com/user-attachments/assets/744764dc-5f65-4a69-b281-fcc7e92be3c8)
+![Image Search](https://github.com/user-attachments/assets/14e9e01b-2e64-45cc-a6f9-645042b862fe)
+![Document Management](https://github.com/user-attachments/assets/0a4af41b-837e-411b-992f-9cdf22e86be1)
 
 ## Future Improvements
 
