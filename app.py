@@ -461,7 +461,7 @@ def settings_tab():
             "Groq API Key",
             type="password",
             value=st.session_state['api_key'],
-            help="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"
+            help="Enter your Groq API key to enable the chatbot"
         )
         
         # Updated model selection with correct Groq model names
