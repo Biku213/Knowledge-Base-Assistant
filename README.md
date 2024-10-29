@@ -38,8 +38,8 @@ To set up the Knowledge Base Assistant application, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/knowledge-base-assistant.git
-   cd knowledge-base-assistant
+   git clone https://github.com/Biku213/Knowledge-Base-Assistant
+   cd Knowledge-Base-Assistant
    ```
 
 2. Create a virtual environment (if not already created) and activate it:
