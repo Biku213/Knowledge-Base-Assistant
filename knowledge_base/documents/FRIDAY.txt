@@ -1,0 +1,14 @@
+Device name	FRIDAY
+Processor	11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz   2.80 GHz
+Installed RAM	16.0 GB (15.8 GB usable)
+Device ID	D5EFB1E7-4603-458F-A7EF-CB5D66A1E54F
+Product ID	00331-10000-00001-AA815
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
+
+Edition	Windows 11 Pro
+Version	22H2
+Installed on	‎4/‎5/‎2023
+OS build	22621.1778
+Experience	Windows Feature Experience Pack 1000.22642.1000.0

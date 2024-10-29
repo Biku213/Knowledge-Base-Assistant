@@ -1,0 +1,12 @@
+increase build version
+build abb with prod api
+console 
+select app and production 
+create new release
+upload abb
+release notes
+app=>intermediates=>merged native libs=>everything except mips(compress)
+app bundle details=>upload debug symbols
+review release
+rollout to production
+
