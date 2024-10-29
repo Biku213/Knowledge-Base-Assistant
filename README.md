@@ -44,7 +44,7 @@ To set up the Knowledge Base Assistant application, follow these steps:
 
 2. Create a virtual environment (if not already created) and activate it:
 
-   - For Linux/Mac:
+- For Linux/Mac:
 
 ```
    python3 -m venv venv
@@ -109,7 +109,3 @@ Here are some screenshots showcasing the key features of the Knowledge Base Assi
 ## Conclusion
 
 The Knowledge Base Assistant is a powerful tool that helps users efficiently access and retrieve information from a curated knowledge base. By leveraging the capabilities of ChromaDB, Groq, and various language models, the application delivers fast and accurate responses, making it a valuable asset for organizations, researchers, and knowledge workers. With its user-friendly interface, robust performance, and continuous improvements, the Knowledge Base Assistant is poised to become an indispensable tool for knowledge management and information retrieval.
-
-```
-
-```
