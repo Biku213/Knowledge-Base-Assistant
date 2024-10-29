@@ -99,6 +99,10 @@ Here are some screenshots showcasing the key features of the Knowledge Base Assi
 ![Image Search](https://github.com/user-attachments/assets/14e9e01b-2e64-45cc-a6f9-645042b862fe)
 ![Document Management](https://github.com/user-attachments/assets/0a4af41b-837e-411b-992f-9cdf22e86be1)
 
+## Demo Video
+
+https://github.com/user-attachments/assets/d4d904d3-bce9-4ce0-ab1c-391acf383d71
+
 ## Future Improvements
 
 - Implement support for additional file types (e.g., PDF, Microsoft Office documents)
