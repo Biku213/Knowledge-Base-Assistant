@@ -54,7 +54,7 @@ To set up the Knowledge Base Assistant application, follow these steps:
 - For Windows:
 
   ```
-  python -m venv venv
+  python3 -m venv venv
   venv\Scripts\activate
   ```
 
