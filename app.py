@@ -23,7 +23,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# Custom CSS for better styling
+# Custom CSS 
 st.markdown("""
     <style>
     .stApp {
@@ -468,11 +468,10 @@ def settings_tab():
         model_name = st.selectbox(
             "Model",
             [
-                "llama-3.1-70b-versatile",           # Most similar to original llama2-70b
-                "mixtral-8x7b-chat",         # Mixtral model
-                "gemma-7b-it",               # Gemma model
-                "claude-3-opus-20240229",    # Claude 3 Opus
-                "claude-3-sonnet-20240229"   # Claude 3 Sonnet
+                "llama-3.1-70b-versatile",           
+                # "mixtral-8x7b-chat",         # Mixtral model
+                # "gemma-7b-it",               # Gemma model
+               
             ],
             index=0,
             help="Select the model to use for generating responses"
