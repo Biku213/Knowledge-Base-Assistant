@@ -46,36 +46,31 @@ To set up the Knowledge Base Assistant application, follow these steps:
 
 - For Linux/Mac:
 
-```
+   ```
    python3 -m venv venv
    source venv/bin/activate
-
-```
+   ```
 
 - For Windows:
 
-  ```
-  python3 -m venv venv
-  venv\Scripts\activate
-  ```
+   ```
+   python3 -m venv venv
+   venv\Scripts\activate
+   ```
 
 3. Install the required dependencies:
 
-```
-
-pip install -r requirements.txt
-
-```
+   ```
+   pip install -r requirements.txt
+   ```
 
 4. Obtain a Groq API key and update the `st.session_state['api_key']` value in the `settings_tab()` function.
 
 5. Run the Streamlit application:
 
-```
-
-streamlit run app.py
-
-```
+   ```
+   streamlit run app.py
+   ```
 
 6. The application will open in your default web browser. You can now start uploading documents, customizing settings, and using the chat and image search functionality.
 
